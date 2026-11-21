@@ -1,0 +1,6 @@
+{
+  "name": "BotChase",
+  "description": "Automatización académica local para ITLAVIRTUAL con vigilancia de calendario, redacción asistida con Gemini y estudio de portadas PDF/DOCX.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
